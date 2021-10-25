@@ -1,0 +1,2 @@
+h1{text-align:center;color:darkcyan}.logo{width:48px;height:48px;margin:0 0 10px 0;animation:rotate-logo 1.8s infinite linear}@keyframes rotate-logo{0%{transform:rotate(0deg) scale(1)}25%{transform:rotate(90deg) scale(0.9)}50%{transform:rotate(180deg) scale(0.95)}75%{transform:rotate(270deg) scale(1.1)}100%{transform:rotate(360deg) scale(1)}}
+

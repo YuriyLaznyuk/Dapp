@@ -46,6 +46,7 @@
     "@emotion/styled": "^11.3.0",
     "@usedapp/core": "^0.5.4",
     "dotenv": "^8.6.0",
+    "express": "^4.17.1",
     "framer-motion": "^4.1.17",
     "jazzicon-ts": "^1.0.0",
     "react": "^17.0.2",
